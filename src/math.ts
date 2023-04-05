@@ -1,7 +1,7 @@
 export function add(x: number, y: number): number {
-    return 0;
+    return x + y;
 }
 
 export function multiply(x: number, y: number): number {
-    return 0;
+    return x * y;
 }
